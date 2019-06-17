@@ -1,0 +1,6 @@
+[submodule "sound-down"]
+	path = sound-down
+	url = https://github.com/Will-Copeland/sound-down.git
+[submodule "webhook"]
+	path = webhook
+	url = https://github.com/Will-Copeland/faux-book-webhook-server.git
